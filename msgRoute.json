@@ -1,0 +1,8 @@
+{
+  "messageArray":[
+    {"messageId":"1", "route":"connector.entryHandler.enter"},
+    {"messageId":"2", "route":"chat.chatHandler.send"},
+    {"messageId":"3", "route":"onAdd"}
+  ]
+
+}
